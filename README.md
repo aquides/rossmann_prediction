@@ -1,3 +1,5 @@
+**Disclaimer**: O Contexto a seguir, é completamente fictício, a empresa, o contexto, as perguntas de negócio foram criadas apenas para o desenvolvimento do projeto, e se baseiam em um desafio do Kaggle.
+
 # ROSSMANN SALES PREDICTION 
 
 ![image](https://user-images.githubusercontent.com/104724574/168178979-0d9d19c1-e824-4364-a10c-835811b47f15.png)
